@@ -11,6 +11,7 @@
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
     "framer-motion": "^10.12.12",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.43.9",
@@ -51,5 +52,6 @@
   "devDependencies": {
     "@types/react-router-dom": "5.3",
     "@types/styled-components": "^5.1.26"
-  }
+  },
+  "homepage": "https://Mojin2.github.io/Movieflix"
 }
